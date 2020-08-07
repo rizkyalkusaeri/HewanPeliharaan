@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/ikan_menu"
+        android:title="@string/ikan"
+        android:icon="@drawable/fish"/>
+
+    <item
+        android:id="@+id/kucing_menu"
+        android:title="@string/kucing"
+        android:icon="@drawable/cat"/>
+
+    <item
+        android:id="@+id/anjing_menu"
+        android:title="@string/anjing"
+        android:icon="@drawable/dog"/>
+    <item
+        android:id="@+id/burung_menu"
+        android:title="@string/burung"
+        android:icon="@drawable/bird"/>
+</menu>
